@@ -1,0 +1,8 @@
+Revision history for Perl extension Apache::ModSSL.
+
+0.01  Sun Oct 24 15:54:53 2004
+	- original version; created by h2xs 1.23 with options
+		-A -b 5.8.0 -n Apache::ModSSL
+
+0.02  Wed Dec 15 15:58:37 CET 2004
+	- first public avaliable version
